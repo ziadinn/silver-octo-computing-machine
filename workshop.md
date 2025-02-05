@@ -168,3 +168,16 @@ Be sure to remove the dollar sign and curly braces from the resource.
 19. Once the files are uploaded, you can visit your app at `http://<your-bucket-name>.s3-website-us-east-1.amazonaws.com`
 
 Our frontend is now deployed!
+
+## Step Seven: Cleaning up
+For this step, we'll be cleaning up the resources we've created.
+
+1. Go to the EC2 console and visit the "Instances" page
+2. Right click on your instance and click on the "Terminate" button
+3. Click on the "Terminate" button to delete your instance
+4. Go to the S3 console and visit the "Buckets" page
+5. Select your bucket by clicking on the circle on the left side of your Bucket
+6. Click on the "Delete bucket" button
+7. Go to the DynamoDB console and visit the "Tables" page
+8. Select your table by clicking on the box on the left side of your Table
+9. Click on the "Delete table" button to delete your table
