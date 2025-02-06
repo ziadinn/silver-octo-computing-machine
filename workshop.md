@@ -40,6 +40,8 @@ For this step, we'll be adding an initial visitor count to our table.
 
 4. Click on the "Create item" button
 
+https://github.com/user-attachments/assets/35a936c6-c4e2-4432-9968-27a80c789f69
+
 Our visitor count is now set to 0!
 
 ## Step Three: Starting up our EC2 backend
@@ -57,6 +59,8 @@ For this step, we'll be setting up our backend to connect to our DynamoDB table.
     1. Set the source to `0.0.0.0/0` to allow all IP addresses
     2. This will allow us to connect to our backend from our local machine
 8. Click on the "Launch" button
+
+https://github.com/user-attachments/assets/149b1c37-174b-482a-a3ef-af64925c909c
 
 Our EC2 instance should now be running!
 
