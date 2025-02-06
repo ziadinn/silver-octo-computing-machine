@@ -78,6 +78,8 @@ For this step, we'll be giving our EC2 instance access to our DynamoDB table.
 9. Right click on your instance and click on "Modify IAM role" in the "Security" section
 10. Select the "EC2DynamoDBAccess" role and click on the "Apply" button
 
+https://github.com/user-attachments/assets/3c2ee526-b961-49f6-b9a2-e5bd8b6c74b1
+
 Our EC2 instance should now have access to our DynamoDB table!
 
 ## Step Five: Deploying our backend
