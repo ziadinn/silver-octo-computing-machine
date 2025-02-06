@@ -6,6 +6,8 @@
 - Our demo repo cloned locally
 - AWS console in **us-east-1**
 
+https://github.com/user-attachments/assets/c8fbe74a-87da-4d38-ae7c-48275e5c949d
+
 ## Deploying our App
 
 ### Step One: Creating a DynamoDB table
@@ -17,6 +19,8 @@ For this step, we'll be creating a DynamoDB table where we can store our visitor
     1. This name has to be exactly `visitors` for the backend to work, this includes the casing
 4. Set the partition key to `id` with a data type of `String`
 5. Click on the "Create table" button
+
+https://github.com/user-attachments/assets/d4ad413b-5b25-4a73-bd4e-f7e73d9fd893
 
 Our table is now created!
 
