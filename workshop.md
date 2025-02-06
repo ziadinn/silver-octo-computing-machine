@@ -107,6 +107,8 @@ npm i
 npm run prod
 ```
 
+https://github.com/user-attachments/assets/a6c9f88a-7288-4c42-aa67-0845cc5f8af8
+
 Our backend is now deployed!
 
 **Note:** This will run on port 3000 in our backend, and will terminate if we stop the process. There are ways to persist our backend, but for now, this will work.
@@ -177,6 +179,8 @@ Be sure to remove the dollar sign and curly braces from the resource.
 18. Click on the "Upload" button to upload the files to your bucket
 19. Once the files are uploaded, you can visit your app at `http://<your-bucket-name>.s3-website-us-east-1.amazonaws.com`
 
+https://github.com/user-attachments/assets/78ae006f-d777-4555-917a-9dc1f1765bdf
+
 Our frontend is now deployed!
 
 ## Step Seven: Cleaning up
@@ -191,3 +195,5 @@ For this step, we'll be cleaning up the resources we've created.
 7. Go to the DynamoDB console and visit the "Tables" page
 8. Select your table by clicking on the box on the left side of your Table
 9. Click on the "Delete table" button to delete your table
+
+https://github.com/user-attachments/assets/2ff8ccbd-1dce-4901-abbc-8201407211d5
